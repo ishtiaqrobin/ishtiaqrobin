@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ishtiaq-robin-portfolio.web.app/](https://ishtiaq-robin-portfolio.web.app/)
 
-- 💬 Ask me about **Mern stack developer**
+- ❓ Ask me about **Mern stack developer**
 
 - 📫 How to reach me **robin.pass36@gmail.com**
 
