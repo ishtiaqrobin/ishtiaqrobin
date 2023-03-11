@@ -11,6 +11,12 @@
 
 - 🌱 I’m currently learning **Redux**
 
+- 👀 I’m interested in Web Development
+
+- 💞️ I’m looking to collaborate on any web project
+
+- 🌱 I’m currently Working on MERN
+
 - 👨‍💻 My portfolio [https://ishtiaq-robin-portfolio.web.app/](https://ishtiaq-robin-portfolio.web.app/)
 
 - ❓ Ask me about **Mern stack developer**
