@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQGuT7lp77tKlw/profile-displaybackgroundimage-shrink_350_1400/0/1678551182120?e=1683763200&v=beta&t=tMpMQ7Q3sgkCgTPt4K91wxXhl2zYH0m_IHZYn0aOlFs" align="center" style="width: 100%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Ishtiaq Robin</h1>
-<h3 align="center">A passionate Mern stack developer from Bangladesh i![BangladeshGIF](https://user-images.githubusercontent.com/101532559/224496072-f161509b-56ad-4ca9-9faa-cc83406f2136.gif)
+<h3 align="center">A passionate Mern stack developer from Bangladesh
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishtiaqrobin&label=Profile%20views&color=0e75b6&style=flat" alt="ishtiaqrobin" /> </p>
