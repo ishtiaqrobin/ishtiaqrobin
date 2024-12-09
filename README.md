@@ -1,5 +1,5 @@
  <div align="center">
-<img src="https://i.ibb.co.com/71FF3kz/banner-bg.png" align="center" style="width: 100%" />
+<img src="[https://i.ibb.co.com/71FF3kz/banner-bg.png](https://i.postimg.cc/prGtDqTJ/Heading.png)" align="center" style="width: 100%" />
 </div>  
 <h1 align="center" style="font-bold">Hi There👋, I'm Ishtiaq Robin</h1>
 <h3 align="center">A passionate Mern stack developer from Bangladesh
