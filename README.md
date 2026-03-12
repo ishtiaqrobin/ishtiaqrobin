@@ -65,6 +65,51 @@
 
 ---
 
+### 🚀 Featured Real-World Projects
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🎙️ Ezbitly</h3>
+      <p align="center"><strong>AI Voice Generation</strong></p>
+      <p>An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
+      <p><strong>Role:</strong> Full-Stack Developer</p>
+      <p><strong>Tech Stack:</strong> Python, Edge TTS, SQLite, PayPal.</p>
+      <div align="center">
+        <a href="https://ezbitly.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-4EA94B?style=for-the-badge&logo=Web&logoColor=white" alt="Live Demo"/></a>
+        <br><br>
+        <a href="https://github.com/ishtiaqrobin/ezbitly" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🎓 Hasan Ali College</h3>
+      <p align="center"><strong>College Platform</strong></p>
+      <p>A complete educational platform to manage students, teachers, and college notices.</p>
+      <p><strong>Role:</strong> Full-Stack Developer</p>
+      <p><strong>Tech Stack:</strong> React, Tailwind, PHP (Laravel), MySQL.</p>
+      <div align="center">
+        <a href="https://www.hasanalicollege.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-4EA94B?style=for-the-badge&logo=Web&logoColor=white" alt="Live Demo"/></a>
+        <br><br>
+        <a href="https://github.com/ishtiaqrobin/hasan-ali-chowdhury-college" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🍹 Friends Juice Bar</h3>
+      <p align="center"><strong>Restaurant Menu & POS</strong></p>
+      <p>A modern application for managing products, prices, and serving as future e-commerce.</p>
+      <p><strong>Role:</strong> Full-Stack Developer</p>
+      <p><strong>Tech Stack:</strong> Next.js (App Router), Node.js, Express, MySQL.</p>
+      <div align="center">
+        <a href="https://friendsjuicebar.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-4EA94B?style=for-the-badge&logo=Web&logoColor=white" alt="Live Demo"/></a>
+        <br><br>
+        <a href="https://github.com/ishtiaqrobin/juice-bar-full-stack" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
