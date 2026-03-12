@@ -33,7 +33,7 @@
 - 💡 I love building scalable web applications and exploring new technologies.
 - 💬 Ask me about **MERN Stack, React, Node.js, Frontend Architecture**
 - 📄 View my [**Resume**](https://drive.google.com/file/d/1kEL1rRtxUj7yoK5Qdj_QmDWi7KqC6UY2/view?usp=sharing)
-- 📞 Let's chat on WhatsApp: **+880 1762-627422**
+- 📞 Let's chat on WhatsApp: [**+880 1762-627422**](https://wa.me/8801762627422)
 
 ---
 
