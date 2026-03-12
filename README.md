@@ -75,7 +75,7 @@
   <!-- Ezbitly -->
     <td width="33%" valign="top" align="center">
       <a href="https://ezbitly.com">
-        <img src="https://res.cloudinary.com/da6yr9lro/image/upload/v1773340579/Screenshot_2026-03-13_002913_wjlf3w.png" alt="Ezbitly Banner" width="100%"/>
+        <img src="https://res.cloudinary.com/da6yr9lro/image/upload/v1773340776/Screenshot_2026-03-13_003858_sxanlj.png" alt="Ezbitly Banner" width="100%"/>
       </a>
       <br><br>
       <h3>🎙️ AI Voice Generation</h3>
