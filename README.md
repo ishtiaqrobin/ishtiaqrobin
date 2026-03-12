@@ -70,42 +70,51 @@
 
 ### 🚀 Featured Real-World Projects
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table border="1" bordercolor="#44475A" cellpadding="15" cellspacing="0" width="100%" align="center">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🎙️ Ezbitly</h3>
-      <p align="center"><strong>AI Voice Generation</strong></p>
-      <p>An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
-      <p><strong>Role:</strong> Full-Stack Developer</p>
-      <p><strong>Tech Stack:</strong> Python, Edge TTS, SQLite, PayPal.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://ezbitly.com">
+        <img src="https://socialify.git.ci/ishtiaqrobin/ezbitly/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Ezbitly Banner" width="100%"/>
+      </a>
+      <br><br>
+      <h3>🎙️ AI Voice Generation</h3>
+      <p align="center">An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
+      <p align="center"><b>Tech Stack:</b> Python, Edge TTS, SQLite, PayPal.</p>
+      <br>
       <div align="center">
-        <a href="https://ezbitly.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-4EA94B?style=for-the-badge&logo=Web&logoColor=white" alt="Live Demo"/></a>
-        <br><br>
-        <a href="https://github.com/ishtiaqrobin/ezbitly" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+        <a href="https://ezbitly.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
+        &nbsp;
+        <a href="https://github.com/ishtiaqrobin/ezbitly" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </div>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎓 Hasan Ali College</h3>
-      <p align="center"><strong>College Platform</strong></p>
-      <p>A complete educational platform to manage students, teachers, and college notices.</p>
-      <p><strong>Role:</strong> Full-Stack Developer</p>
-      <p><strong>Tech Stack:</strong> React, Tailwind, PHP (Laravel), MySQL.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://www.hasanalicollege.com">
+        <img src="https://socialify.git.ci/ishtiaqrobin/hasan-ali-chowdhury-college/image?font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Hasan Ali College Banner" width="100%"/>
+      </a>
+      <br><br>
+      <h3>🎓 College Platform</h3>
+      <p align="center">A complete educational platform to manage students, teachers, and college notices.</p>
+      <p align="center"><b>Tech Stack:</b> React, Tailwind, PHP (Laravel), MySQL.</p>
+      <br>
       <div align="center">
-        <a href="https://www.hasanalicollege.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-4EA94B?style=for-the-badge&logo=Web&logoColor=white" alt="Live Demo"/></a>
-        <br><br>
-        <a href="https://github.com/ishtiaqrobin/hasan-ali-chowdhury-college" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+        <a href="https://www.hasanalicollege.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
+        &nbsp;
+        <a href="https://github.com/ishtiaqrobin/hasan-ali-chowdhury-college" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </div>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🍹 Friends Juice Bar</h3>
-      <p align="center"><strong>Restaurant Menu & POS</strong></p>
-      <p>A modern application for managing products, prices, and serving as future e-commerce.</p>
-      <p><strong>Role:</strong> Full-Stack Developer</p>
-      <p><strong>Tech Stack:</strong> Next.js (App Router), Node.js, Express, MySQL.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://friendsjuicebar.com">
+        <img src="https://socialify.git.ci/ishtiaqrobin/juice-bar-full-stack/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Juice Bar Banner" width="100%"/>
+      </a>
+      <br><br>
+      <h3>🍹 Restaurant & POS</h3>
+      <p align="center">A modern application for managing products, prices, and serving as future e-commerce.</p>
+      <p align="center"><b>Tech Stack:</b> Next.js, Node.js, Express, MySQL.</p>
+      <br>
       <div align="center">
-        <a href="https://friendsjuicebar.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-4EA94B?style=for-the-badge&logo=Web&logoColor=white" alt="Live Demo"/></a>
-        <br><br>
-        <a href="https://github.com/ishtiaqrobin/juice-bar-full-stack" target="_blank"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/></a>
+        <a href="https://friendsjuicebar.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
+        &nbsp;
+        <a href="https://github.com/ishtiaqrobin/juice-bar-full-stack" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </div>
     </td>
   </tr>
