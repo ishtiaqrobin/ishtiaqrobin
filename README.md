@@ -79,8 +79,8 @@
       </a>
       <br><br>
       <h3>🎙️ AI Voice Generation</h3>
-      <p align="center">An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
-      <p align="center"><b>Tech Stack:</b> Python, Edge TTS, SQLite, PayPal.</p>
+      <p align="justify">An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
+      <p align="justify"><b>Tech Stack:</b> Python, Edge TTS, SQLite, PayPal.</p>
       <br>
       <div align="center">
         <a href="https://ezbitly.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
