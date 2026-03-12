@@ -72,9 +72,10 @@
 
 <table border="1" bordercolor="#44475A" cellpadding="15" cellspacing="0" width="100%" align="center">
   <tr>
+  <!-- Ezbitly -->
     <td width="33%" valign="top" align="center">
       <a href="https://ezbitly.com">
-        <img src="https://socialify.git.ci/ishtiaqrobin/ezbitly/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Ezbitly Banner" width="100%"/>
+        <img src="https://res.cloudinary.com/da6yr9lro/image/upload/v1773340579/Screenshot_2026-03-13_002913_wjlf3w.png" alt="Ezbitly Banner" width="100%"/>
       </a>
       <br><br>
       <h3>🎙️ AI Voice Generation</h3>
@@ -87,6 +88,7 @@
         <a href="https://github.com/ishtiaqrobin/ezbitly" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </div>
     </td>
+    <!-- Hasan Ali College-->
     <td width="33%" valign="top" align="center">
       <a href="https://www.hasanalicollege.com">
         <img src="https://socialify.git.ci/ishtiaqrobin/hasan-ali-chowdhury-college/image?font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Hasan Ali College Banner" width="100%"/>
@@ -102,6 +104,7 @@
         <a href="https://github.com/ishtiaqrobin/hasan-ali-chowdhury-college" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </div>
     </td>
+    <!-- Friends Juice Bar-->
     <td width="33%" valign="top" align="center">
       <a href="https://friendsjuicebar.com">
         <img src="https://opengraph.githubassets.com/1/ishtiaqrobin/juice-bar-full-stack" alt="Juice Bar Banner" width="100%"/>
@@ -117,6 +120,7 @@
         <a href="https://github.com/ishtiaqrobin/juice-bar-full-stack" target="_blank"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Repo"/></a>
       </div>
     </td>
+
   </tr>
 </table>
 
