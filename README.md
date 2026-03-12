@@ -79,8 +79,8 @@
       </a>
       <br><br>
       <h3>🎙️ AI Voice Generation</h3>
-      <p align="justify">An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
-      <p align="justify"><b>Tech Stack:</b> Python, Edge TTS, SQLite, PayPal.</p>
+      <p align="left">An AI-powered text-to-speech platform where users can generate realistic audio from text.</p>
+      <p align="left"><b>Tech Stack:</b> Python, Edge TTS, SQLite, PayPal.</p>
       <br>
       <div align="center">
         <a href="https://ezbitly.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
@@ -95,8 +95,8 @@
       </a>
       <br><br>
       <h3>🎓 College Platform</h3>
-      <p align="justify">A complete educational platform to manage students, teachers, and college notices.</p>
-      <p align="justify"><b>Tech Stack:</b> React, Tailwind, PHP (Laravel), MySQL.</p>
+      <p align="left">A complete educational platform to manage students, teachers, and college notices.</p>
+      <p align="left"><b>Tech Stack:</b> React, Tailwind, PHP (Laravel), MySQL.</p>
       <br>
       <div align="center">
         <a href="https://www.hasanalicollege.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
@@ -111,8 +111,8 @@
       </a>
       <br><br>
       <h3>🍹 Restaurant & POS</h3>
-      <p align="justify">A modern application for managing products, prices, and serving as future e-commerce.</p>
-      <p align="justify"><b>Tech Stack:</b> Next.js, Node.js, Express, MySQL.</p>
+      <p align="left">A modern application for managing products, prices, and serving as future e-commerce.</p>
+      <p align="left"><b>Tech Stack:</b> Next.js, Node.js, Express, MySQL.</p>
       <br>
       <div align="center">
         <a href="https://friendsjuicebar.com" target="_blank"><img src="https://img.shields.io/badge/Live_Preview-4EA94B?style=flat-square&logo=Web&logoColor=white" alt="Live Demo"/></a>
