@@ -16,18 +16,19 @@
   <a href="mailto:ishtiaqrobin.me@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/ishtiaq_robin" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.facebook.com/ishtiaqrobins" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
 
 <br>
 
 <!-- About Section -->
+
 ### 👨🏻‍💻 About Me
 
 - 🌍 I'm based in **Faridpur, Dhaka, BD**
-- 🔭 I’m currently working on [**Perform Tracker**](https://project-builder-f5689.web.app/)
+- 🔭 I’m currently working on [**Friends Juice Bar**](https://friendsjuicebar.com)
 - 🌱 I’m currently learning & adapting **TypeScript, Next.js, Go, Docker, PostgreSQL, Prisma ORM, Zod**
 - 💡 I love building scalable web applications and exploring new technologies.
 - 💬 Ask me about **MERN Stack, React, Node.js, Frontend Architecture**
@@ -39,6 +40,7 @@
 ### 🛠️ Tech Stack & Tools
 
 **Solid Experience In:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -53,6 +55,7 @@
 </p>
 
 **Currently Exploring & Learning:**
+
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -126,6 +129,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="ishtiaqrobin" />
@@ -133,6 +137,7 @@
 </div>
 
 ---
+
 <div align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
   <br><br>
