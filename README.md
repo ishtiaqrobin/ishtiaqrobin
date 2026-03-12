@@ -8,16 +8,16 @@
 <!-- Social Links Section -->
 <div align="center">
   <a href="https://ishtiaq-robin-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=reverbnation&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ishtiaq-robin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ishtiaqrobin.me@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.facebook.com/ishtiaqrobins" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
 
@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="ishtiaqrobin" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&no-frame=true&no-bg=true&column=7&margin-w=15" alt="ishtiaqrobin" />
   </a>
 </div>
 
@@ -143,7 +143,7 @@
   <br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
   <br><br>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ishtiaqrobin&icon=3&color=6" alt="Profile Views" />
+  <a href="https://github.com/ishtiaqrobin">
+    <img src="https://komarev.com/ghpvc/?username=ishtiaqrobin&style=for-the-badge&color=blue" alt="Profile Views" />
   </a>
 </div>
