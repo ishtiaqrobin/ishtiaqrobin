@@ -8,7 +8,7 @@
 <!-- Social Links Section -->
 <div align="center">
   <a href="https://ishtiaq-robin-portfolio.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=reverbnation&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ishtiaq-robin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&no-frame=true&no-bg=true&column=7&margin-w=15" alt="ishtiaqrobin" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="ishtiaqrobin" />
   </a>
 </div>
 
