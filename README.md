@@ -91,7 +91,7 @@
     <!-- Hasan Ali College-->
     <td width="33%" valign="top" align="center">
       <a href="https://www.hasanalicollege.com">
-        <img src="https://socialify.git.ci/ishtiaqrobin/hasan-ali-chowdhury-college/image?font=Inter&language=1&name=1&owner=1&pattern=Signal&theme=Dark" alt="Hasan Ali College Banner" width="100%"/>
+        <img src="https://res.cloudinary.com/da6yr9lro/image/upload/v1773341065/Screenshot_2026-03-13_004406_akftir.png" alt="Hasan Ali College Banner" width="100%"/>
       </a>
       <br><br>
       <h3>🎓 College Platform</h3>
@@ -107,7 +107,7 @@
     <!-- Friends Juice Bar-->
     <td width="33%" valign="top" align="center">
       <a href="https://friendsjuicebar.com">
-        <img src="https://opengraph.githubassets.com/1/ishtiaqrobin/juice-bar-full-stack" alt="Juice Bar Banner" width="100%"/>
+        <img src="https://res.cloudinary.com/da6yr9lro/image/upload/v1773341129/Screenshot_2026-03-13_004518_xaqjqg.png" alt="Juice Bar Banner" width="100%"/>
       </a>
       <br><br>
       <h3>🍹 Restaurant & POS</h3>
