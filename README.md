@@ -124,7 +124,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqrobin&layout=compact&theme=dracula" alt="Top Languages" width="48%" />
-  <img src="https://metrics.lecoq.io/ishtiaqrobin?template=classic&base=0&isocalendar=1&isocalendar.duration=half-year&config_theme=dracula" alt="Isometric Commit Calendar" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtiaqrobin&theme=dracula&bg_color=282A36&hide_border=false" alt="GitHub Activity Graph" width="48%" />
 </div>
 
 <div align="center">
