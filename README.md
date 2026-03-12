@@ -126,18 +126,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqrobin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="ishtiaqrobin" />
-  </a>
-</div>
-
----
-
 <div align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
   <br><br>
