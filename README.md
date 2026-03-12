@@ -1,8 +1,8 @@
  <div align="center">
-<img src="https://i.postimg.cc/prGtDqTJ/Heading.png" align="center" style="width: 100%" />
+<!-- <img src="https://i.postimg.cc/prGtDqTJ/Heading.png" align="center" style="width: 100%" /> -->
 </div>  
 <h1 align="center" style="font-bold">Hi There👋, I'm Ishtiaq Robin</h1>
-<h3 align="center">A passionate Mern stack developer from Bangladesh
+<h3 align="center">A passionate MERN stack developer from Bangladesh
 </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin" alt="ishtiaqrobin" /></a> </p>
