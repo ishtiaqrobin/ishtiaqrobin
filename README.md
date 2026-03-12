@@ -104,7 +104,7 @@
     </td>
     <td width="33%" valign="top" align="center">
       <a href="https://friendsjuicebar.com">
-        <img src="https://socialify.git.ci/ishtiaqrobin/juice-bar-full-stack/image?font=Inter&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="Juice Bar Banner" width="100%"/>
+        <img src="https://opengraph.githubassets.com/1/ishtiaqrobin/juice-bar-full-stack" alt="Juice Bar Banner" width="100%"/>
       </a>
       <br><br>
       <h3>🍹 Restaurant & POS</h3>
