@@ -1,60 +1,99 @@
- <div align="center">
-<!-- <img src="https://i.postimg.cc/prGtDqTJ/Heading.png" align="center" style="width: 100%" /> -->
-</div>  
-<h1 align="center" style="font-bold">Hi There👋, I'm Ishtiaq Robin</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh
-</h3>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Ishtiaq%20Robin%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  
+  <h3>Passionate MERN Stack Developer | Crafting Modern Web Experiences</h3>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin" alt="ishtiaqrobin" /></a> </p>
+<!-- Social Links Section -->
+<div align="center">
+  <a href="https://ishtiaq-robin-portfolio.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ishtiaq-robin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ishtiaqrobin.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://twitter.com/ishtiaq_robin" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on [Perfom Tracker](https://project-builder-f5689.web.app/)
+<br>
 
-- 🌱 I’m currently learning **Redux**
+<!-- About Section -->
+### 👨🏻‍💻 About Me
 
-- 👀 I’m interested in Web Development
-
-- 💞️ I’m looking to collaborate on any web project
-
-- 🌱 I’m currently Working on MERN
-
-- 👨‍💻 My portfolio [https://ishtiaq-robin-portfolio.web.app/](https://ishtiaq-robin-portfolio.web.app/)
-
-- ❓ Ask me about **Mern stack developer**
-
-- 📫 How to reach me **robin.pass36@gmail.com**
-
-- 📄 My resume [https://drive.google.com/file/d/1kEL1rRtxUj7yoK5Qdj_QmDWi7KqC6UY2/view?usp=sharing](https://drive.google.com/file/d/1kEL1rRtxUj7yoK5Qdj_QmDWi7KqC6UY2/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ishtiaqrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ishtiaqrobin" height="30" width="40" /></a>
-<a href="https://dev.to/ishtiaqrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ishtiaqrobin" height="30" width="40" /></a>
-<a href="https://twitter.com/ishtiaq_robin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ishtiaq_robin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishtiaq-robin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishtiaq-robin/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18450676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18450676" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ishtiaqrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ishtiaqrobin" height="30" width="40" /></a>
-<a href="https://fb.com/ishtiaq.robin.36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ishtiaq.robin.36/" height="30" width="40" /></a>
-<a href="https://instagram.com/ishtiaq.robin.36/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishtiaq.robin.36/" height="30" width="40" /></a>
-<a href="https://dribbble.com/ishtiaq_robin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ishtiaq_robin" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ishtiaqrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ishtiaqrobin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ishtiaqrobin2790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ishtiaqrobin2790" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ishtiaq_robin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ishtiaq_robin" height="30" width="40" /></a>
-<a href="https://discord.gg/Ishtiaq Robin #3798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ishtiaq Robin #3798" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ishtiaqrobin&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ishtiaqrobin&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqrobin&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌍 I'm based in **Faridpur, Dhaka, BD**
+- 🔭 I’m currently working on [**Perform Tracker**](https://project-builder-f5689.web.app/)
+- 🌱 I’m currently learning & adapting **TypeScript, Next.js, Go, Docker, PostgreSQL, Prisma ORM, Zod**
+- 💡 I love building scalable web applications and exploring new technologies.
+- 💬 Ask me about **MERN Stack, React, Node.js, Frontend Architecture**
+- 📄 View my [**Resume**](https://drive.google.com/file/d/1kEL1rRtxUj7yoK5Qdj_QmDWi7KqC6UY2/view?usp=sharing)
+- 📞 Let's chat on WhatsApp: **+880 1762-627422**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishtiaqrobin&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🛠️ Tech Stack & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Solid Experience In:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadcnUI" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
+</p>
+
+**Currently Exploring & Learning:**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishtiaqrobin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishtiaqrobin&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqrobin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ishtiaqrobin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="ishtiaqrobin" />
+  </a>
+</div>
+
+---
+<div align="center">
+  <i>Let's connect and build something awesome together! 🚀</i>
+  <br><br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <br><br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ishtiaqrobin&icon=3&color=6" alt="Profile Views" />
+  </a>
+</div>
